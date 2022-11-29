@@ -15,4 +15,21 @@
     <string name="gallery">Gallery</string>
     <string name="about">About</string>
     <string name="todo">TODO</string>
+
+    <string name="address">
+        Address: Gowdavelly (Village), Medchal (Mandal), Medchal-Malkajgiri (Dist.), Telangana,India - 501401
+    </string>
+    <string name="phone">
+        Phone: 9247001102
+    </string>
+    <string name="website">
+        Website: info@hitam.com
+    </string>
+
+    <string name="contacts">Contact Details</string>
+    <string name="departments">DEPARTMENTS</string>
+    <string name="computer_science">Computer Science</string>
+    <string name="electrical_and_electronics_engineering">Electrical and Electronics Engineering</string>
+    <string name="mechanical_engineering">Mechanical Engineering</string>
+    <string name="electronics_and_communication_engineering">Electronics and Communication Engineering</string>
 </resources>

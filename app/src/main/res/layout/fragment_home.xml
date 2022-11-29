@@ -23,12 +23,12 @@
     <TextView
         android:id="@+id/textView2"
         android:layout_width="match_parent"
-        android:layout_height="270dp"
+        android:layout_height="296dp"
         android:layout_marginLeft="10dp"
         android:layout_marginTop="10dp"
         android:layout_marginRight="10dp"
         android:text="HITAM is a top-ranked autonomous engineering college with 22 years of exemplary legacy. It stands out with its unique ‘Doing Engineering’ methodology for offering engineering education that enables the students to become hands-on engineers. HITAM implements the best practices developed in collaboration with world class partner institutions to create a unique learning experience for students. With initiatives like project-based learning (PBL), experiential platform for learning and outreach in real time engineering (XPLORE), etc., students at HITAM are able to learn beyond the classroom."
-        android:textSize="18dp"/>
+        android:textSize="18dp" />
 
 
 </LinearLayout>
