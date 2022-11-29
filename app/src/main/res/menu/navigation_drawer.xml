@@ -4,23 +4,23 @@
 
     <item android:id="@+id/navigation_assignments"
         android:title="@string/assignments"
-        android:icon="@drawable/assignment"/>
+        android:icon="@drawable/icon_assignments"/>
 
     <item android:id="@+id/navigation_attendance"
         android:title="@string/attendance"
-        android:icon="@drawable/attendance"/>
+        android:icon="@drawable/icon_attendance"/>
 
     <item android:id="@+id/navigation_syllabus"
         android:title="@string/syllabus"
-        android:icon="@drawable/syllabus"/>
+        android:icon="@drawable/icon_syllabus"/>
 
     <item android:id="@+id/navigation_calendar"
         android:title="@string/academic_calendar"
-        android:icon="@drawable/calendar"/>
+        android:icon="@drawable/icon_calendar"/>
 
     <item android:id="@+id/navigation_library"
         android:title="@string/library_books_e_books"
-        android:icon="@drawable/library"
+        android:icon="@drawable/icon_library"
         tools:ignore="HardcodedText" />
 
 </menu>
