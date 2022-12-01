@@ -10,20 +10,20 @@
         android:label="Home"
         tools:layout="@layout/fragment_home"/>
 
+    <fragment android:id="@+id/navigation_ebooks"
+        android:name="com.example.hitamstudent.ui.ebooks.EbooksFragment"
+        android:label="@string/e_books"
+        tools:layout="@layout/fragment_ebooks"/>
+
+    <fragment android:id="@+id/navigation_assignments"
+        android:name="com.example.hitamstudent.ui.assignments.AssignmentsFragment"
+        android:label="Assignments"
+        tools:layout="@layout/fragment_assignments"/>
+
     <fragment android:id="@+id/navigation_notice"
         android:name="com.example.hitamstudent.ui.notice.NoticeFragment"
         android:label="Notice"
         tools:layout="@layout/fragment_notice"/>
-
-    <fragment android:id="@+id/navigation_faculty"
-        android:name="com.example.hitamstudent.ui.faculty.FacultyFragment"
-        android:label="Faculty"
-        tools:layout="@layout/fragment_faculty"/>
-
-    <fragment android:id="@+id/navigation_gallery"
-        android:name="com.example.hitamstudent.ui.gallery.GalleryFragment"
-        android:label="Gallery"
-        tools:layout="@layout/fragment_gallery"/>
 
     <fragment android:id="@+id/navigation_about"
         android:name="com.example.hitamstudent.ui.about.AboutFragment"

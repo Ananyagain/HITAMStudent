@@ -5,17 +5,17 @@
         android:icon="@drawable/home"
         android:title="@string/home" />
 
+    <item android:id="@+id/navigation_ebooks"
+        android:icon="@drawable/icon_library"
+        android:title="@string/e_books" />
+
+    <item android:id="@+id/navigation_assignments"
+        android:icon="@drawable/icon_assignments"
+        android:title="@string/assignments" />
+
     <item android:id="@+id/navigation_notice"
         android:icon="@drawable/notice"
         android:title="@string/notice" />
-
-    <item android:id="@+id/navigation_faculty"
-        android:icon="@drawable/faculty"
-        android:title="@string/faculty" />
-
-    <item android:id="@+id/navigation_gallery"
-        android:icon="@drawable/gallery"
-        android:title="@string/gallery" />
 
     <item android:id="@+id/navigation_about"
         android:icon="@drawable/about"

@@ -68,8 +68,8 @@ public class HomePage extends AppCompatActivity implements NavigationView.OnNavi
     @Override
     public boolean onNavigationItemSelected(@NonNull MenuItem item) {
         switch (item.getItemId()){
-            case R.id.navigation_assignments:
-                Toast.makeText(this,"Assignments", Toast.LENGTH_SHORT).show();
+            case R.id.navigation_gallery:
+                Toast.makeText(this,"Gallery", Toast.LENGTH_SHORT).show();
                 break;
             case R.id.navigation_attendance:
                 Toast.makeText(this,"Attendance", Toast.LENGTH_SHORT).show();
@@ -80,8 +80,8 @@ public class HomePage extends AppCompatActivity implements NavigationView.OnNavi
             case R.id.navigation_calendar:
                 Toast.makeText(this,"Academic Calendar", Toast.LENGTH_SHORT).show();
                 break;
-            case R.id.navigation_library:
-                Toast.makeText(this,"Library Books / e-Books", Toast.LENGTH_SHORT).show();
+            case R.id.navigation_faculty:
+                Toast.makeText(this,"Faculty", Toast.LENGTH_SHORT).show();
                 break;
        }
         return true;

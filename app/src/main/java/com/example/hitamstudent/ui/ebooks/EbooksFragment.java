@@ -1,4 +1,4 @@
-package com.example.hitamstudent.ui.gallery;
+package com.example.hitamstudent.ui.ebooks;
 
 import android.os.Bundle;
 
@@ -10,13 +10,13 @@ import android.view.ViewGroup;
 
 import com.example.hitamstudent.R;
 
-public class GalleryFragment extends Fragment {
 
+public class EbooksFragment extends Fragment {
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_gallery, container, false);
+        return inflater.inflate(R.layout.fragment_ebooks, container, false);
     }
 }

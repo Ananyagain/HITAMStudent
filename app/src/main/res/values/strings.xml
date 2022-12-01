@@ -8,7 +8,7 @@
     <string name="attendance">Attendance</string>
     <string name="syllabus">Syllabus</string>
     <string name="academic_calendar">Academic Calendar</string>
-    <string name="library_books_e_books">Library Books / e-Books</string>
+    <string name="e_books">e-Books</string>
     <string name="home">Home</string>
     <string name="notice">Notice</string>
     <string name="faculty">Faculty</string>
@@ -32,4 +32,6 @@
     <string name="electrical_and_electronics_engineering">Electrical and Electronics Engineering</string>
     <string name="mechanical_engineering">Mechanical Engineering</string>
     <string name="electronics_and_communication_engineering">Electronics and Communication Engineering</string>
+    <string name="enter_roll_number">Enter Roll Number</string>
+    <string name="enter_password">Enter Password</string>
 </resources>

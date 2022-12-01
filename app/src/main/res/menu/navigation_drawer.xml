@@ -2,9 +2,9 @@
 <menu xmlns:tools="http://schemas.android.com/tools"
     xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <item android:id="@+id/navigation_assignments"
-        android:title="@string/assignments"
-        android:icon="@drawable/icon_assignments"/>
+    <item android:id="@+id/navigation_gallery"
+        android:title="@string/gallery"
+        android:icon="@drawable/gallery"/>
 
     <item android:id="@+id/navigation_attendance"
         android:title="@string/attendance"
@@ -18,9 +18,9 @@
         android:title="@string/academic_calendar"
         android:icon="@drawable/icon_calendar"/>
 
-    <item android:id="@+id/navigation_library"
-        android:title="@string/library_books_e_books"
-        android:icon="@drawable/icon_library"
+    <item android:id="@+id/navigation_faculty"
+        android:title="@string/faculty"
+        android:icon="@drawable/faculty"
         tools:ignore="HardcodedText" />
 
 </menu>
